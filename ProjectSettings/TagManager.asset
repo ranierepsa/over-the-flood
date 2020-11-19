@@ -14,12 +14,12 @@ TagManager:
   - 
   - 
   - Ground
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ladder
+  - Player
+  - Background
+  - Enemy
+  - Traps
+  - Interactables
   - 
   - 
   - 
@@ -44,8 +44,20 @@ TagManager:
   - name: Background
     uniqueID: 4275231753
     locked: 0
+  - name: Ladder
+    uniqueID: 450964915
+    locked: 0
+  - name: Traps
+    uniqueID: 1396321473
+    locked: 0
+  - name: Interactables
+    uniqueID: 1026329837
+    locked: 0
   - name: Player
     uniqueID: 1861660567
+    locked: 0
+  - name: Enemy
+    uniqueID: 1680644101
     locked: 0
   - name: Foreground
     uniqueID: 535145911
